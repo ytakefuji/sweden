@@ -18,6 +18,6 @@ The latest data should be downloaded from:
  
  openssl enc -d -aes256 -in sweden.tar|tar xv
  
- Of course, you need a password.
+ Of course, you need a password!
  
  
