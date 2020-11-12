@@ -10,6 +10,12 @@ The latest data should be downloaded from:
  <img src='sweden.png' height=400 width=600>
  
  
+ # Exercises for students
+ <pre>
+ You should code a Python program using numpy.polyfit function as shown in the following picture.
+ 
+ </pre>
+ 
  sweden.tar was encrypted by: 
  
  tar cvf - swedendaily.py |openssl enc -e -aes256 -out sweden.tar
