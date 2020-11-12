@@ -10,3 +10,12 @@ The latest data should be downloaded from:
  <img src='sweden.png' height=400 width=600>
  
  
+ sweden.tar was encrypted by: 
+ 
+ tar cvf - swedendaily.py |openssl enc -e -aes256 -out sweden.tar
+ 
+ In order to expand sweden.tar, use the following command:
+ 
+ openssl enc -d -aes256 -in sweden.tar|tar xv
+ 
+ 
