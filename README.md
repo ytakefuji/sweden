@@ -12,7 +12,7 @@ The latest data should be downloaded from:
  
  # Exercises for students
  <pre>
- You should code a Python program using numpy.polyfit function as shown in the following picture.
+ You should code a Python program using numpy.polyfit function as shown above picture.
  Hint: curve fitting with 10th degree polinomial: np.polyfit(x[valid],y[valid],10)
  </pre>
  
