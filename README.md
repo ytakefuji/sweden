@@ -9,7 +9,7 @@ https://covid.ourworldindata.org/data/ecdc/new_deaths.csv
  
  Prediction is based on the curve fitting with 10th degree polinomial: np.polyfit(x[valid],y[valid],10).
  
- Blue line is the predicted curve using the last 300 days from Jan.15 2021. Red line based on the curve fitting with 5th degree polinomial is changing the size of days from 100 to 300 days from Jan.15 2021. Black line shows the number of daily deaths due to the covid-19 from Jan.22 to Jan.15 2021.
+ Blue line is the predicted curve using the last 300 days from Jan.17 2021. Red line based on the curve fitting with 5th degree polinomial is changing the size of days from 100 to 300 days from Jan.17 2021. Black line shows the number of daily deaths due to the covid-19 from Jan.22 2020 to Jan.17 2021.
  
  <img src='sweden.gif' height=400 width=600>
  
